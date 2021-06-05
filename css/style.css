@@ -2239,5 +2239,5 @@ a:focus {
 }
 
 .yellowFilter {
-filter: invert(18%) sepia(105%) saturate(2615%) hue-rotate(413deg) brightness(121%) contrast(140%)
+    filter: invert(18%) sepia(105%) saturate(2615%) hue-rotate(413deg) brightness(121%) contrast(140%);
 }
