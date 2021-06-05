@@ -2233,3 +2233,11 @@ a:focus {
         text-align: center;
     }
 }
+
+.myicon {
+	height: 40px;
+}
+
+.yellowFilter {
+filter: invert(18%) sepia(105%) saturate(2615%) hue-rotate(413deg) brightness(121%) contrast(140%)
+}
